@@ -1,0 +1,17 @@
+# Binaries
+/bin/
+*.exe
+*.exe?
+*.exe.log
+
+# Environment variables
+.env
+*.env
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+
+# OS generated
+.DS_Store
